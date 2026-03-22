@@ -1,5 +1,4 @@
 import fs from 'fs/promises';
-import path from 'path';
 import { marked } from 'marked';
 import yaml from 'js-yaml';
 import Papa from 'papaparse';
